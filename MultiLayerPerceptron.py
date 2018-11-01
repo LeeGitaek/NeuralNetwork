@@ -32,7 +32,6 @@ def xorPerceptron(x1,x2):
     y = andPerceptron(s1,s2)
     return y
 
-
 inputData = np.array([[0,0],[0,1],[1,0],[1,1]])
 
 print("------and Perceptron ------")
